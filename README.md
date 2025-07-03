@@ -124,9 +124,11 @@ This project demonstrates a non-photorealistic approach to fluid simulation, foc
 
 ⭐ **If you found this project helpful, please consider giving it a star!**
 
+## 🖼️ Gallery
 
 ![images](Project_files/images/Main_network_view.png)
 ![images](Project_files/images/Flip_setup.png)
 ![images](Project_files/images/Using_Verticitty_to_drive_cd.png)
+![image](Project_files/images/Boat_material_breakdown.png)
 
-## 🖼️ Gallery
+
